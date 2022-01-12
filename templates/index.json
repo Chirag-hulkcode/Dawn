@@ -108,14 +108,14 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "eames-chair",
             "second_image": false
           }
         },
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
