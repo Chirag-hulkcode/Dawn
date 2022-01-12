@@ -100,6 +100,7 @@
         "video": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/sunlight-creeps-through-a-bright-living-room.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "description": "Describe the video",
             "image_padding": false
